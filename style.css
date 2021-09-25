@@ -1,0 +1,213 @@
+
+#img_h{
+  width:120px;
+  padding-top:px;
+  float: left;
+  position: relative;
+  bottom: 20px;
+  
+}
+ #img_h1{
+      width:64px;
+  padding-top:px;
+  float: left;
+  position: relative;
+  bottom: 7px;
+  }
+header{
+  background-image: url(https://stalkers-mod.ru/_ld/1/25380629.jpg);
+  padding: 50px;
+  border: 5px black solid;
+   border-radius: 10px;
+  
+}
+footer{
+  background-color: #fac269;
+  position: relative;
+bottom: px;
+   background-image: url(https://stalkers-mod.ru/_ld/1/25380629.jpg);
+  border: 5px black solid;
+   border-radius: 10px;
+  font-size:20px;
+  text-align: center;
+  color: #FFDB83;
+  
+}
+main {
+ background-color: silver;
+  background-image: url(https://images5.alphacoders.com/109/1091061.jpg);
+  border: 5px black solid;
+   border-radius: 10px;
+  height: 1000px;
+}
+.post {
+ background-color: white;
+ padding: 20px;
+ border-radius: 20px;
+ margin-bottom: 20px;
+ display: flex;
+ text-align:center;
+ width:500px;
+ position: relative;
+bottom: 590px;
+  height:450px;
+  font-size:12px;
+  background-image: url(https://stalkers-mod.ru/_ld/1/25380629.jpg);
+  
+  
+}
+.post1 {
+ background-color: white;
+ padding: 20px;
+ border-radius: 20px;
+ margin-bottom: 20px;
+ display: flex;
+ text-align:center;
+ width:500px;
+ margin: 5px 1em 0 auto;
+position: relative;
+bottom: 1110px;
+  font-size:12px;
+  background-image: url(https://stalkers-mod.ru/_ld/1/25380629.jpg);
+  
+
+}
+.post0 {
+ background-color: white;
+ padding: 20px;
+ border-radius: 20px;
+ margin-bottom: 20px;
+ display: flex;
+ text-align:center;
+ width:500px;
+ margin: 5% auto;
+ position: relative;
+bottom: px;
+  font-size:12px;
+  background-image: url(https://stalkers-mod.ru/_ld/1/25380629.jpg);
+ 
+ 
+}
+.post img {
+ margin: 20px;
+}
+.footer-columns {
+ display: flex;
+}
+.footer-column {
+ flex: 50%;
+ margin: 20px;
+}
+
+#menu1{
+ position: relative;
+ display: block;
+ width: 100%;
+ height: auto;
+ z-index: 10;
+}
+#menu1 ul{
+ position: relative;
+ display: block;
+ margin: 0px;
+ padding: 0px;
+ width: 100%;
+ height: auto;
+ list-style: none;
+}
+#menu1 ul{
+ position: relative;
+ display: block;
+ margin: 0px;
+ padding: 0px;
+ width: 100%;
+ height: auto;
+ list-style: none;
+}
+#menu1 > ul::after{
+ display: block;
+ width: 100%;
+ height: 0px;
+ clear: both;
+ content: " ";
+}
+#menu1 ul li{
+ position: relative;
+ display: block;
+ float: left;
+ width: auto;
+ height: auto;
+}
+#menu1 ul li a{
+ display: block;
+ padding: 9px 25px 0px 25px;
+ font-size: 14px;
+ line-height: 1.3em;
+ text-decoration: none;
+ font-weight: bold;
+ text-transform: uppercase;
+ height: 36px;
+ box-sizing: border-box;
+ color: #FFDB83;
+}
+#menu1 ul li ul{
+ position: absolute;
+ top: 36px;
+ left: 0px;
+ display: none;
+ width: 200px;
+ background: #000000;
+}
+#menu1 ul li:hover ul{
+ display: block;
+  border-radius: 10px;
+
+}
+#menu1 ul li ul li{
+ float: none;
+ width: 100%;
+  
+}
+#menu1 ul li ul li a{
+ display: block;
+ text-transform: none;
+ height: auto;
+ padding: 7px 25px;
+ width: 100%;
+ box-sizing: border-box;
+ border-top: 1px solid;
+ color: #FFDB83;
+ font-style:Impact;
+}
+#menu1 ul li ul li:first-child a{
+ border-top: 0px;
+}
+#p{
+  font-size:25px;
+  color:#749ac2;
+  text-align: center;
+  color: #FFDB83;
+}
+#a{
+  font-size:20px;
+  color:#749ac2;
+  text-align: center;
+  color: #FF9000;
+}
+#b{
+  font-size:20px;
+  color:#749ac2;
+  text-align: center;
+  color: #FFDB83;
+}
+#qq{
+  width:280px;
+  padding-top:px;
+  float: left;
+  position: relative;
+  bottom: 20px;
+}
+body{
+    background-color: gray;/* Цвет фона веб-страницы */
+    height: 1000px;
+   } 
